@@ -1,0 +1,25 @@
+{
+  "name": "summary-generator",
+  "version": "1.0.0",
+  "description": "This is a command line based application that takes in employee info and generates a webpage summary",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elijohnson565/Summary-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elijohnson565/Summary-Generator/issues"
+  },
+  "homepage": "https://github.com/elijohnson565/Summary-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
